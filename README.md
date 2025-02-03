@@ -256,4 +256,4 @@ The first half of this module is assessed on your effort in completing Lab 1 to 
 
 This assessment accounts for 15% of the module.  The preferred route of submitting your logbook is through GitHub, but you may use other tools such as Notion or Obsidian.  You must complete the [SURVEY](https://forms.office.com/e/GLD0qYyxpS) and grant me access to them.  My GitHub account name is 'pykc'.
 
-The deadline for this is **16.00 on Friday 16 February 2024**.  
+The deadline for this is **16.00 on Friday 14 February 2025**.  

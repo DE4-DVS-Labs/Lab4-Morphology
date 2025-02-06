@@ -1,5 +1,5 @@
 # Lab 4 - Morphological Image Processing
-*_Peter Cheung, version 1.0, 8 Feb 2024_*
+*_Peter Cheung, version 1.1, 8 Feb 2024_*
 
 
 In this laboratory session, you will explore the use of various morphological operators and get a feel of how they modify visual information.  

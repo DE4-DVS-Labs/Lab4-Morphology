@@ -1,5 +1,5 @@
 # Lab 4 - Morphological Image Processing
-*_Peter Cheung, version 1.1, 8 Feb 2024_*
+*_Peter Cheung, version 1.2, 6 Feb 2025_*
 
 
 In this laboratory session, you will explore the use of various morphological operators and get a feel of how they modify visual information.  
@@ -80,7 +80,7 @@ In this task, you will explore the effect of using Open and Close on a binary no
 
 1. Read the image file 'finger-noisy.tif' into _f_.
 2. Generate a 3x3 structuring element SE.
-3. Erode _f_ to produce _f_e.
+3. Erode _f_ to produce _fe_.
 4. Dilate _fe_ to produce _fed_.
 5. Open _f_ to produce _fo_.
 6. Show _f_, _fe_, _fed_ and _fo_ as a 4 image montage.
@@ -89,7 +89,7 @@ Comment on the the results.
 
 Explore what happens with other size and shape of structuring element.
 
-Improve the image _fo__ with a close operation.
+Improve the image _fo_ with a close operation.
 
 Finally, compare morphological filtering using Open + Close to spatial filter with a **Gaussian filter**. Comment on your comparison.
 
